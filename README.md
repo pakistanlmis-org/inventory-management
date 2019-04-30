@@ -9,8 +9,6 @@ The system is GS-1 compliant, supports threshold-based triggers/alerts as well a
 
 Support is always handy support@lmis.gov.pk 
 
-This tool was created by the USAID-funded GHSC-PSM Program implemented by Chemonics International. See README below for more info.
-
 # LMIS inventory management Systems (IMS)
 LMIS inventory management Systems (IMS) web based providing real-time, perpetual inventory balances and open fulfillment status. The IMS has a capability to act as one system across various stores at different geographical levels has capability to manage the end-to-end inventory transactions across the supply chain. This allows the IMS user to see available balances and all issues/dispatches, including pending actions to be completed. Users are offered other functions, such as warehouse capacity management, views to incoming pipeline supplies and batch management functions. The dashboards provide ample information about Months of Supply, Storage vs Space Occupation Trends, Capacity Occupation of the warehouse, and issue/consumption information. Alerts provided to the IMS user include shipment alerts on incoming supplies, and product expiry alerts. <br>
 <img src='https://github.com/pakistanlmis/inventory-management/blob/master/public/images/im.png' width='300'>
